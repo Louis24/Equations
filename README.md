@@ -10,3 +10,4 @@ $$x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}$$
 $$a + b$$    
 
 $$x_{balabala}^{bala}$$
+$a^b$
