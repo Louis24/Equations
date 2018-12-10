@@ -6,7 +6,7 @@ http://latex.codecogs.com/
 
 
 <div align="center">
-<img src="http://latex.codecogs.com/gif.latex?\\frac{1}{1+sin(x)}">
+<img src="http://latex.codecogs.com/gif.latex?\\frac{1}{1+sin(x)}", alt='1'>
 </div>
 
 ## use mathjax
