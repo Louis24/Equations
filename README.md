@@ -7,3 +7,6 @@
 
 $$x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}$$
 \\(x=\frac{-b\pm\sqrt{b^2-4ac}}{2a}\\)
+
+
+$$x = a_{1}^n + a_{2}^n + a_{3}^n$$
